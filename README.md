@@ -9,3 +9,5 @@ J'espère que vous allez vous amusez!
 Bonne ambiance!!
 
 NB: Au cas où il faut compiler les fichiers .java il suffit de lance le fichier go.bat.
+
+Pour consulter la vidéo, entrez dans le dossier video et ouvrez Toavina.zip.
